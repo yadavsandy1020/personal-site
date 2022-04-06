@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-122cd9ad.js",
+    "file": "start-35bd3175.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -43,7 +43,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-c8aae86e.js",
+    "file": "pages/index.svelte-bde75699.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -58,7 +58,7 @@
       "_footer-2db2323e.js"
     ],
     "css": [
-      "assets/pages/index.svelte-98fef49b.css"
+      "assets/pages/index.svelte-23b89c25.css"
     ]
   },
   "src/routes/digital-tools.md": {
